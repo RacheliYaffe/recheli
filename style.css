@@ -1,0 +1,28 @@
+#buttonn {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  #buttonn button {
+    background-color: #f88888;
+    border: none;
+    color: #333;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #buttonn button:hover {
+    background-color: #6a63f5;
+    color: #fff;
+  }
+  #dive{
+   margin-left: 45%;
+   margin-top: 3%;
+   font-size: 30px;
+   color: #f88888;
+  }
+  
